@@ -1,11 +1,11 @@
 @font-face {
   font-family: gillroy;
-  src: url(../Gilroy-ExtraBold.otf);
+  src: url(./Gilroy-ExtraBold.otf);
 }
 
 @font-face {
   font-family: kajiro;
-  src: url(../KajiroBold.ttf);
+  src: url(./KajiroBold.ttf);
 }
 
 * {
